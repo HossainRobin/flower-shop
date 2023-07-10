@@ -185,3 +185,31 @@ body{
     margin: 0px 10px;
 }
 /* Instagram section end */
+/* Newsletter section start */
+.newsletter{
+    margin-bottom: 100px;
+}
+.news-box{
+    padding: 80px 0px;
+    background-image: url('../images/newsletter-bg.png');
+
+}
+.news-heading{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.news-form{
+    width: 60%;
+
+    margin: auto;
+}
+.news-form input{
+    width: 100%;
+    margin-right: 20px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    border: 0px solid white;
+    border-radius: 5px;
+
+}
+/* Newsletter section end */
