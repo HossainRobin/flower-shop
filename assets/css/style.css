@@ -17,6 +17,10 @@ body{
     width: 33.33%;
     display: inline-block;
 }
+.col-3{
+    width: 25%;
+    display: inline-block;
+}
 /* Banner section start */
 .banner{
     background-color: #fceef1;
@@ -167,3 +171,17 @@ body{
     color: #E55473;
 }
 /* Hot Deal section end */
+/* Instagram section start */
+.insta{
+    margin-bottom: 100px;
+}
+.insta-head{
+    text-align: center;
+}
+.insta-body .col-3 img{
+    width: 100%;
+}
+.insta-body .col-3{
+    margin: 0px 10px;
+}
+/* Instagram section end */
