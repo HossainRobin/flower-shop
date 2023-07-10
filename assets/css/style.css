@@ -25,7 +25,7 @@ body{
 }
 .banner-left{
     margin-top: 120px;
-    width: 50%;
+    width: 60%;
 }
 .banner-left h1{
     font-size: 50px;
@@ -34,7 +34,7 @@ body{
     margin: 40px 0px 50px 0px;
     color: #272727;
     line-height: 1.7;
-    margin-right: 50px;
+    margin-right: 100px;
 }
 .banner-left > .btn{
     text-decoration: none;
@@ -52,7 +52,7 @@ body{
     color: #000;
 }
 .banner-right{
-    width: 50%;
+    width: 40%;
 }
 .banner-right img{
     width: 500px;
@@ -119,3 +119,19 @@ body{
     width: 46%;
 }
 /* Featured section end */
+/* Icon Info section start */
+.icon-info{
+    margin-bottom:100px;
+}
+.bg-silver{
+    background: #F4F4F4;
+    text-align: center;
+    padding: 80px 30px;
+    border-radius: 10px;
+}
+.icon-info p{
+    margin-top: 20px;
+    font-weight: bold;
+    color: #868686;
+}
+/* Icon Info section end */
