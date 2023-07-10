@@ -13,6 +13,10 @@ body{
 .row{
     display: flex;
 }
+.col-6{
+    width: 50%;
+    display: inline-block;
+}
 .col-4{
     width: 33.33%;
     display: inline-block;
@@ -139,6 +143,28 @@ body{
     color: #868686;
 }
 /* Icon Info section end */
+/* About section start */
+.about{
+    margin-bottom: 100px;
+}
+.about h3{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.about p{
+    margin-bottom: 50px;
+    color: #818181;
+    line-height: 1.7;
+}
+.mr-80{
+    margin-right: 80px;
+}
+.about img{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 30% 0%;
+}
+/* About section end */
 /* Hot Deal section start */
 .hot-deal{
     background: #FEF6F8;
